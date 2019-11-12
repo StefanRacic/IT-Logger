@@ -1,0 +1,45 @@
+{
+  "logs": [
+    {
+      "message": "Fix Station 001",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-11-12T21:24:49.026Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Update Software in office",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2019-11-12T21:27:12.877Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jen",
+      "lastName": "Williams",
+      "id": 4
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Popovic",
+      "id": 5
+    }
+  ]
+}
